@@ -1,3 +1,1 @@
-Este es un readme de prueba
-
-segunda prueba
+dir stuff2 pc
